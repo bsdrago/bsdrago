@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **bsdrago/bsdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
