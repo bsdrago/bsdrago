@@ -12,6 +12,8 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### GAMES
+Translation from MSX-basic to C# of a presidential simulation game https://github.com/bsdrago/PresidenteDaRepublica-MSX
 <!--
 **bsdrago/bsdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
